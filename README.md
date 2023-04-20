@@ -22,6 +22,9 @@
   ## License
   This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
   
+  ## Deployed Application
+  Here is the link to the deployed application: https://focrult.github.io/React-Portfolio/
+  
   ## Questions
   ### Contact me through the following links provided below, if you have any further questions!
   ### GitHub URL: https://github.com/focrult
